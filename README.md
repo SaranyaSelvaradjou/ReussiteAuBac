@@ -9,5 +9,6 @@ Les données utilisées dans cette analyse ont été obtenues à partir du site 
 - Exploration des données pour comprendre leur structure et leur qualité.
 - Calcul des statistiques récapitulatives par catégorie sociale et type de baccalauréat.
 - Identification des catégories sociales avec les meilleures et les moins bonnes performances pour chaque type de baccalauréat.
+- Visualisation des données.
 
 Pour plus de détails sur les étapes de l'analyse et les résultats obtenus, veuillez consulter le code et les commentaires dans le notebook Jupyter fourni dans ce dépôt.
