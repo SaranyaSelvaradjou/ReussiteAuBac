@@ -5,10 +5,9 @@ Les données utilisées dans cette analyse ont été obtenues à partir du site 
 
 Le projet comprend les étapes suivantes :
 
-Importation des librairies nécessaires.
-Exploration des données pour comprendre leur structure et leur qualité.
-Calcul des statistiques récapitulatives par catégorie sociale et type de baccalauréat.
-Identification des catégories sociales avec les meilleures et les moins bonnes performances pour chaque type de baccalauréat.
-Cette analyse vise à mettre en évidence les disparités existantes dans les résultats au baccalauréat en France, ainsi qu'à fournir des informations utiles pour les décideurs politiques et les intervenants dans le domaine de l'éducation.
+- Importation des librairies nécessaires.
+- Exploration des données pour comprendre leur structure et leur qualité.
+- Calcul des statistiques récapitulatives par catégorie sociale et type de baccalauréat.
+- Identification des catégories sociales avec les meilleures et les moins bonnes performances pour chaque type de baccalauréat.
 
 Pour plus de détails sur les étapes de l'analyse et les résultats obtenus, veuillez consulter le code et les commentaires dans le notebook Jupyter fourni dans ce dépôt.
