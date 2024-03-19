@@ -3,7 +3,7 @@ Ce projet consiste en une analyse détaillée des résultats au baccalauréat en
 
 Les données utilisées dans cette analyse ont été obtenues à partir du site Data.gouv.fr et comprennent des informations sur le nombre d'admis au baccalauréat général, technologique et professionnel, ainsi que des pourcentages d'admis, par année et par catégorie sociale.
 
-Le projet comprend les étapes suivantes :
+# Le projet comprend les étapes suivantes :
 
 - Importation des librairies nécessaires.
 - Exploration des données pour comprendre leur structure et leur qualité.
